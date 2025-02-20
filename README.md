@@ -62,6 +62,14 @@ Blogshala is a full-fledged blog application built with React.js that offers the
 
     cd blogshala
 
+### Add .env file:
+
+    VITE_APPWRITE_URL="https://cloud.appwrite.io/v1"
+    VITE_APPWRITE_PROJECT_ID=""
+    VITE_APPWRITE_DATABASE_ID=""
+    VITE_APPWRITE_COLLECTION_ID=""
+    VITE_APPWRITE_BUCKET_ID=""
+
 ### Install dependencies:
 
     npm install
