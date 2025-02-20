@@ -46,7 +46,7 @@ Blogshala is a full-fledged blog application built with React.js that offers the
 
 - **Live Demo:**
 
-  https://mega-blog-app.netlify.app
+    https://blogshala-five.vercel.app
 
 - **Repository:**
 
