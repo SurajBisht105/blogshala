@@ -62,7 +62,7 @@ Blogshala is a full-fledged blog application built with React.js that offers the
 
     cd blogshala
 
-### Add .env file:
+### Add Environment variable inside .env file:
 
     VITE_APPWRITE_URL="https://cloud.appwrite.io/v1"
     VITE_APPWRITE_PROJECT_ID=""
