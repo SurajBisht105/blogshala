@@ -56,7 +56,7 @@ Blogshala is a full-fledged blog application built with React.js that offers the
 
 ### Clone the repository:
 
-    git clone https://github.com/code-with-divyanshu/MegaBlog_App
+    git clone https://github.com/SurajBisht105/blogshala.git
 
 ### Navigate to the project directory:
 
